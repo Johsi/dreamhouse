@@ -1,0 +1,1328 @@
+ " id="2741649" name="False"></div>
+        <a class="address ResidentialForSale" href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649">
+            <span class="floatLeft">67 Upper Leeson Street, Dublin 4</span>
+            <span class="price">AMV: €1,300,000</span>
+        </a>
+        <span class="premiumText">PREMIUM AD</span>
+    </div>
+    <div class="resultBody">
+        
+            <div class="gallery">
+                <div class="quickGalleryContainer">
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/122fea75ca_m.jpg" alt=""  />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/d00cad2604_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/5f2d58181d_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/c584b31c91_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/22f6534ea2_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/07db514aeb_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/23a546ea35_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/e2db119f63_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/939ad46005_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/d523bdf947_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/b4e6f5b825_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/f1995bda67_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/4/6/2741649/40be16eb44_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/122fea75ca_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/d00cad2604_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/5f2d58181d_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/c584b31c91_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/22f6534ea2_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/07db514aeb_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/23a546ea35_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/e2db119f63_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/939ad46005_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/d523bdf947_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/b4e6f5b825_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/f1995bda67_m.jpg" rel="2741649"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/4/6/2741649/40be16eb44_m.jpg" rel="2741649"></a>
+                    
+                </div>
+                <div class="arrowLeft"></div>
+                <div class="arrowRight"></div>
+            </div>
+        
+
+        <div class="descriptionTitle">
+            <span class="floatLeft">
+                3 Bed Terraced House 220 m&#178; / 2368 ft&#178; For Sale By Auction
+            </span>
+            
+        </div>
+        <div class="description">An exceptionally bright, spacious and well-presented two-storey over garden level Victorian residence, superbly positioned on this much sought after residential terrace in the heart of Dublin 4. Internally No. 67 Upper Leeson Street has been upgraded to an exceptionally high standard of modern design and finish whilst retaining beautiful period features throughout. At hall level there is a gracious reception hall with two very fine interconnecting reception rooms off. The living accommodation is continued at garden level where there i...</div>
+        <div class="smallImages">
+            <a class="arrowLink slideshowLink" id="2741649">View Slideshow</a>
+            
+                <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649#agentContactForm" class="arrowLink">Contact Agent</a>
+            
+                <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649#map" class="arrowLink">Map</a>
+            
+        </div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/lisney-head-office-6409"><img src="//photos.myhome.ie/groups/9/0/4/6409/logo.jpg" alt="agent logo" /></a></div>
+        
+
+        <a href="/residential/brochure/67-upper-leeson-street-dublin-4/2741649" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 12pm to 1pm</span>
+        
+    </div>
+
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>002</span>
+            
+
+ " id="2742946" name="False"></div>
+
+            <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946" class="ResidentialForSale">8 Riverwood Dale, Castleknock, Dublin 15</a>
+
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/C2.png" alt="C2" title="This property has a C2 energy rating" />
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946">
+                    <img src="//photos.myhome.ie/media/6/4/9/2742946/ee15d9d3af_t.jpg" alt="8 Riverwood Dale, Castleknock, Dublin 15" />
+                </a>
+                
+                    <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946">
+                        <img class="small" src="//photos.myhome.ie/media/6/4/9/2742946/55e06951af_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946">
+                        <img class="small" src="//photos.myhome.ie/media/6/4/9/2742946/5242029049_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946">
+                        <img class="small" src="//photos.myhome.ie/media/6/4/9/2742946/d8f28cbbd1_s.jpg" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946">View 11 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">3 Bed Semi-Detached House For Sale</span><span class="price">€315,000</span></div>
+        <div class="description ">ON VIEW SATURDAY 15th FEBRUARY 1:15pm-1:45pm
+
+PLEASE REGISTER WITH FLYNN &amp; ASSOCIATES 01 8211311
+
+
+
+Floor area c. 98 sq.m / 1055 sq.ft
+
+Flynn &amp; Associates are delighted to welcome 8 Riverwood Dale to the market. This wonderful 3 bedroom semi detached family home is presented in very good condition and offers a great deal to the intending purchaser.  Positioned in a quiet cul de sac and enjoying the advan...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/flynn-associates-castleknock-5584"><img src="//photos.myhome.ie/groups/4/8/5/5584/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/8-riverwood-dale-castleknock-dublin-15/2742946" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 1.15pm to 1.45pm</span>
+        
+    </div>
+
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>003</span>
+            
+
+ " id="2733273" name="False"></div>
+
+            <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273" class="ResidentialForSale">45 Riverwood Gardens, Castleknock, Dublin 15</a>
+
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/C2.png" alt="C2" title="This property has a C2 energy rating" />
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273">
+                    <img src="//photos.myhome.ie/media/3/7/2/2733273/09615b9091_t.jpg" alt="45 Riverwood Gardens, Castleknock, Dublin 15" />
+                </a>
+                
+                    <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273">
+                        <img class="small" src="//photos.myhome.ie/media/3/7/2/2733273/ba0927165f_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273">
+                        <img class="small" src="//photos.myhome.ie/media/3/7/2/2733273/2e96139c47_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273">
+                        <img class="small" src="//photos.myhome.ie/media/3/7/2/2733273/1482e3d4b9_s.jpg" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273">View 11 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">3 Bed Semi-Detached House For Sale</span><span class="price">€340,000</span></div>
+        <div class="description ">ON VIEW SATURDAY 15th FEBRUARY 12:30pm-1:00pm
+
+PLEASE REGISTER WITH FLYNN &amp; ASSOCIATES 01 8211311
+
+
+
+Floor area c. 107 sq.m / 1160 sq.ft ( excluding attic conversion of c. 26 sq.m / 290 sq.ft )
+
+Flynn &amp; Associates are delighted to offer 45 Riverwood Gardens to the market. This exceptional large 3 bedroom semi-detached property with a unique open plan attic conversion is beautifully maintained and in turn...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/flynn-associates-castleknock-5584"><img src="//photos.myhome.ie/groups/4/8/5/5584/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/45-riverwood-gardens-castleknock-dublin-15/2733273" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 12.30pm to 1pm</span>
+        
+    </div>
+
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>004</span>
+            
+
+ " id="2736726" name="False"></div>
+
+            <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726" class="ResidentialForSale">10 Phoenix Avenue, Castleknock, Dublin 15</a>
+
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/D2.png" alt="D2" title="This property has a D2 energy rating" />
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726">
+                    <img src="//photos.myhome.ie/media/6/2/7/2736726/5df955c9a9_t.jpg" alt="10 Phoenix Avenue, Castleknock, Dublin 15" />
+                </a>
+                
+                    <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726">
+                        <img class="small" src="//photos.myhome.ie/media/6/2/7/2736726/39b1c98c13_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726">
+                        <img class="small" src="//photos.myhome.ie/media/6/2/7/2736726/f40f579788_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726">
+                        <img class="small" src="//photos.myhome.ie/media/6/2/7/2736726/0f06d13270_s.jpg" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726">View 10 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">4 Bed Semi-Detached House For Sale</span><span class="price">€450,000</span></div>
+        <div class="description ">ON VIEW SATURDAY 15th FEBRUARY 10:30am - 11:00am
+
+PLEASE REGISTER WITH FLYNN &amp; ASSOCIATES 01 8211311
+
+
+
+Floor area c. 98 sq.m / 1055 sq.ft
+
+Flynn &amp; Associates are delighted to welcome 10 Phoenix Avenue to the market. This exceptional four bedroom semi-detached property is situated in a prime residential location. 10 Phoenix Avenue is in excellent condition throughout and offers many extras including land...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/flynn-associates-castleknock-5584"><img src="//photos.myhome.ie/groups/4/8/5/5584/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/10-phoenix-avenue-castleknock-dublin-15/2736726" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 10.30am to 11am</span>
+        
+    </div>
+
+
+<li id="search-results-sponsor">
+
+
+<div id="mortgageAdvert">
+    <h3 class="title">ADVERTISEMENT</h3>
+    <div class="mortgageAdvertContent">
+        
+            <a class="mortgageAdvertLink" href="/mortgages/permanent-tsb?source=search">
+        
+            <div class="floatLeft">
+                <h3 class="name">permanent tsb</h3>
+                
+                    
+                        <span class="bold">Found an ideal home? We could have the mortgage to suit you ... find out more.</span>
+                        <span class="textSmall block">Lending criteria, terms and conditions apply. <b>permanent tsb</b> p.l.c. is regulated by the Central Bank of Ireland. </span>
+                    
+                
+            </div>
+            <img class="floatRight" src="/static/images/generic/mortgages/ptsbLogo80x80.gif?v=august2012" alt="permanent tsb" title="permanent tsb" />
+        </a>
+        <div class="mortgageAdvertLinks">
+            
+                <a class="arrowLink" href="/mortgages/permanent-tsb?source=search">View Details</a>
+                <a class="arrowLink" href="/mortgages/permanent-tsb/latest-rates?source=search">View Our Latest Rates</a>
+            
+                <a class="arrowLink mortgagePopup" name="permanent-tsb_privacypolicy">Terms &amp; Conditions</a>
+            
+        </div>
+    </div>
+</div>
+</li>
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>005</span>
+            
+
+ " id="2742328" name="False"></div>
+
+            <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328" class="ResidentialForSale">6 Bramley Walk, Castleknock, Dublin 15</a>
+
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328">
+                    <img src="//photos.myhome.ie/media/8/2/3/2742328/1d23d2777e_t.jpg" alt="6 Bramley Walk, Castleknock, Dublin 15" />
+                </a>
+                
+                    <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328">
+                        <img class="small" src="//photos.myhome.ie/media/8/2/3/2742328/278acce42b_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328">
+                        <img class="small" src="//photos.myhome.ie/media/8/2/3/2742328/76ca034094_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328">
+                        <img class="small" src="//photos.myhome.ie/media/8/2/3/2742328/efe9b040f9_s.jpg" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328">View 12 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">3 Bed Semi-Detached House For Sale</span><span class="price">€350,000</span></div>
+        <div class="description ">ON VIEW SATURDAY 15th FEBRUARY 2:00pm - 2:30pm
+
+PLEASE REGISTER WITH FLYNN &amp; ASSOCIATES 01 8211311
+
+
+
+Floor Area c. 123 sq.m / 1315 sq.ft
+
+Flynn &amp; Associates are delighted to welcome 6 Bramley Walk to the market. This is an extremely attractive large 3 bedroom semi-detached property overlooking a well maintained green with mature shrubbery in this highly sought after location just minutes walk to the tra...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/flynn-associates-castleknock-5584"><img src="//photos.myhome.ie/groups/4/8/5/5584/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/6-bramley-walk-castleknock-dublin-15/2742328" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 2pm to 2.30pm</span>
+        
+    </div>
+
+
+<li id="resultItem" class="premium">
+    <div class="header">
+        
+            <span class="count">006</span>
+        
+
+ " id="2731034" name="False"></div>
+        <a class="address ResidentialForSale" href="/residential/brochure/17-dunmore-grove-kingswood-tallaght-dublin-24/2731034">
+            <span class="floatLeft">17 Dunmore Grove, Kingswood, Tallaght,   Dublin 24</span>
+            <span class="price">€225,000</span>
+        </a>
+        <span class="premiumText">PREMIUM AD</span>
+    </div>
+    <div class="resultBody">
+        
+            <div class="gallery">
+                <div class="quickGalleryContainer">
+                    
+                            <a href="/residential/brochure/17-dunmore-grove-kingswood-tallaght-dublin-24/2731034" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/4/3/0/2731034/17dunmoregrove%20frontWEB_m.jpg" alt=""  />
+                            </a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/4/3/0/2731034/17dunmoregrove%20frontWEB_m.jpg" rel="2731034"></a>
+                    
+                </div>
+                <div class="arrowLeft"></div>
+                <div class="arrowRight"></div>
+            </div>
+        
+
+        <div class="descriptionTitle">
+            <span class="floatLeft">
+                3 Bed Semi-Detached House For Sale
+            </span>
+            
+        </div>
+        <div class="description">RAY COOKE AUCTIONEERS - *REGISTER YOUR INTEREST NOW BY EMAIL ONLY &amp; VIEWINGS WILL BEGIN END OF FEBRUARY*. Magnificent three bedroom semi detached property to the market with the benefit of an ADDITIONAL SUNROOM to the rear and a CONVERTED ATTIC in use as office space. No. 17 is ideally positioned in a peaceful cul de sac and is within easy reach of a host of local amenities including shops, schools, leisure facilities and The Square Shopping Centre. Within a two minute drive you will find the M50 motorway and within walking distance y...</div>
+        <div class="smallImages">
+            <a class="arrowLink slideshowLink" id="2731034">View Slideshow</a>
+            
+                <a href="/residential/brochure/17-dunmore-grove-kingswood-tallaght-dublin-24/2731034#agentContactForm" class="arrowLink">Contact Agent</a>
+            
+                <a href="/residential/brochure/17-dunmore-grove-kingswood-tallaght-dublin-24/2731034#map" class="arrowLink">Map</a>
+            
+        </div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/ray-cooke-auctioneers-tallaght-254910"><img src="//photos.myhome.ie/groups/0/1/9/254910/logo.jpg" alt="agent logo" /></a></div>
+        
+
+        <a href="/residential/brochure/17-dunmore-grove-kingswood-tallaght-dublin-24/2731034" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+
+<li id="search-results-nativead">
+    
+
+<!--JavaScript Tag // Tag for network 257: Electric Media // Website: MyHome.ie // Page: Helpdesk Tests // Placement: Test Native Advert (5016807) // created at: Feb 6, 2014 5:53:15 PM-->
+<script language="javascript"><!--
+    document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|257|5016834|0|16|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=1;kvcounty=DCC;kvlocality=DCC;kvproptype=97;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+    //-->
+</script><noscript><a href="http://adserver.adtech.de/adlink|3.0|257|5016834|0|16|ADTECH;loc=300;grp=1;kvcounty=DCC;kvlocality=DCC;kvproptype=97;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|257|5016834|0|16|ADTECH;loc=300;key=key1+key2+key3+key4;grp=1;kvcounty=DCC;kvlocality=DCC;kvproptype=97;grp=[group]" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+</li>
+
+<li id="resultItem" class="premium">
+    <div class="header">
+        
+            <span class="count">007</span>
+        
+
+ " id="2720799" name="False"></div>
+        <a class="address ResidentialForSale" href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799">
+            <span class="floatLeft">18 Otterbrook, Rathfarnham, Dublin 14</span>
+            <span class="price">€375,000</span>
+        </a>
+        <span class="premiumText">PREMIUM AD</span>
+    </div>
+    <div class="resultBody">
+        
+            <div class="gallery">
+                <div class="quickGalleryContainer">
+                    
+                            <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/9/7/2720799/ea44a2a43f_m.jpg" alt=""  />
+                            </a>
+                    
+                            <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/9/7/2720799/b6b8aca594_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/9/7/2720799/b4b9abd6b4_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/9/7/2720799/52cf72f652_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/9/9/7/2720799/ebed6f99fb_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/9/7/2720799/ea44a2a43f_m.jpg" rel="2720799"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/9/7/2720799/b6b8aca594_m.jpg" rel="2720799"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/9/7/2720799/b4b9abd6b4_m.jpg" rel="2720799"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/9/7/2720799/52cf72f652_m.jpg" rel="2720799"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/9/9/7/2720799/ebed6f99fb_m.jpg" rel="2720799"></a>
+                    
+                </div>
+                <div class="arrowLeft"></div>
+                <div class="arrowRight"></div>
+            </div>
+        
+
+        <div class="descriptionTitle">
+            <span class="floatLeft">
+                3 Bed Semi-Detached House 82 m&#178; / 883 ft&#178; For Sale
+            </span>
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/D2.png" alt="D2" title="This property has a D2 energy rating" />
+            
+        </div>
+        <div class="description">Exceptionally presented and appealing three bedroom semi-detached home in this exclusive and secluded development located off Willbrook Road. 
+
+
+The location is second to none&#160;within close proximity to Dundrum Town Centre and walking distance of Rathfarnham village with excellent local amenities, from schools, shops, restaurants, parks, leisure facilities to a choice of excellent transport facilities.
+
+
+Number 18, is in beautiful decorative order throughout offering the prospective purchaser the opportunity to acquire a home tha...</div>
+        <div class="smallImages">
+            <a class="arrowLink slideshowLink" id="2720799">View Slideshow</a>
+            
+                <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799#agentContactForm" class="arrowLink">Contact Agent</a>
+            
+                <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799#map" class="arrowLink">Map</a>
+            
+        </div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/lisney-terenure-6413"><img src="//photos.myhome.ie/groups/3/1/4/6413/logo.jpg" alt="agent logo" /></a></div>
+        
+
+        <a href="/residential/brochure/18-otterbrook-rathfarnham-dublin-14/2720799" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+
+<li id="resultItem" class="premium">
+    <div class="header">
+        
+            <span class="count">008</span>
+        
+
+ " id="2716557" name="False"></div>
+        <a class="address ResidentialForSale" href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557">
+            <span class="floatLeft">57 Casement Park, Finglas,   Dublin 11</span>
+            <span class="price">€119,950</span>
+        </a>
+        <span class="premiumText">PREMIUM AD</span>
+    </div>
+    <div class="resultBody">
+        
+            <div class="gallery">
+                <div class="quickGalleryContainer">
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/001%20(2)_1024x768_m.jpg" alt=""  />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20006_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20016_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20011_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20015_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20009_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/001%20(3)_1024x768_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20027_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20028_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20025_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20026_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20021_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20022_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20018_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/001_1024x768_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20001_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20002_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20003_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="galleryImage ">
+                                <img src="//photos.myhome.ie/media/7/5/5/2716557/Picture%20005_320x240_m.jpg" alt="" class="hide" />
+                            </a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/001%20(2)_1024x768_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20006_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20016_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20011_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20015_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20009_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/001%20(3)_1024x768_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20027_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20028_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20025_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20026_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20021_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20022_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20018_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/001_1024x768_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20001_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20002_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20003_320x240_m.jpg" rel="2716557"></a>
+                    
+                            <a class="hide" href="//photos.myhome.ie/media/7/5/5/2716557/Picture%20005_320x240_m.jpg" rel="2716557"></a>
+                    
+                </div>
+                <div class="arrowLeft"></div>
+                <div class="arrowRight"></div>
+            </div>
+        
+
+        <div class="descriptionTitle">
+            <span class="floatLeft">
+                3 Bed Terraced House For Sale
+            </span>
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/G.png" alt="G" title="This property has a G energy rating" />
+            
+        </div>
+        <div class="description">WILSON MOORE ESTATE AND LETTING AGENTS - THE DUBLIN PROPERTY SPECIALISTS!!!
+
+**** OPEN VIEWING WILL TAKE PLACE ON SATURDAY 15TH FEBRUARY @ 10:30AM ****
+
+*** WOW *** WOW *** WOW ***
+*** NEW TO THE MARKET *** 
+
+3 BED / 1 BATH FAMILY END OF TERRACE HOME *** CALL 1890 80 80 80 FOR AN IMMEDIATE VIEWING!!!
+
+Wilson Moore are delighted to welcome you to No. 57 Casement Park, a three bedroom end of terrace home offering excellent value for money in this much sought after location.
+
+Accommodation to include entrance hall, living / di...</div>
+        <div class="smallImages">
+            <a class="arrowLink slideshowLink" id="2716557">View Slideshow</a>
+            
+                <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557#agentContactForm" class="arrowLink">Contact Agent</a>
+            
+                <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557#map" class="arrowLink">Map</a>
+            
+        </div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/wilson-moore-estate-letting-agents-7052"><img src="//photos.myhome.ie/groups/2/5/0/7052/logo.jpg" alt="agent logo" /></a></div>
+        
+
+        <a href="/residential/brochure/57-casement-park-finglas-dublin-11/2716557" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+    <div class="listingFeatured">
+        
+            <span><a href="/onview" title="See What's On View This Week">On View</a> : Sat Feb 15, 10.30am to 11am</span>
+        
+    </div>
+
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>009</span>
+            
+
+ " id="2744211" name="False"></div>
+
+            <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211" class="ResidentialForSale">8 The Brambles, Kilgobbin Road, Sandyford, Dublin 18</a>
+
+            
+                <img id="BER" class="listing" src="/static/images/energyRating/D1.png" alt="D1" title="This property has a D1 energy rating" />
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211">
+                    <img src="//photos.myhome.ie/media/1/1/2/2744211/bbc25688de_t.jpg" alt="8 The Brambles, Kilgobbin Road, Sandyford, Dublin 18" />
+                </a>
+                
+                    <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211">
+                        <img class="small" src="//photos.myhome.ie/media/1/1/2/2744211/4c7c9231bd_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211">
+                        <img class="small" src="//photos.myhome.ie/media/1/1/2/2744211/97762b865a_s.jpg" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211">
+                        <img class="small" src="//photos.myhome.ie/media/1/1/2/2744211/e9a14f5761_s.jpg" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211">View 6 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">4 Bed Bungalow 139 m&#178; / 1496 ft&#178; For Sale</span><span class="price">€585,000</span></div>
+        <div class="description ">A most appealing detached bungalow enjoying well proportioned accommodation, attractively landscaped south west facing rear garden and a convenient location, a short walk to the Glencairn LUAS.
+
+No. 8 is a fine detached bungalow built circa 1996 and enjoys bright, well maintained accommodation (approx 139sq.m/ 1,469sq.ft) which features fine interconnecting reception rooms, kitchen / breakfast room and four be...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/lisney-head-office-6409"><img src="//photos.myhome.ie/groups/9/0/4/6409/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/8-the-brambles-kilgobbin-road-sandyford-dublin-18/2744211" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+
+
+<li id="resultItem" class="brandBooster">
+    <div class="resultBody">
+        <div class="address">
+            
+                <span>010</span>
+            
+
+ " id="2744206" name="False"></div>
+
+            <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206" class="ResidentialForSale">19 Claddagh Road, Ballyfermot,   Dublin 10</a>
+
+            
+        </div>
+
+        
+            <div class="gallery">
+                
+                <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206">
+                    <img src="//photos.myhome.ie/media/6/0/2/2744206/claddaghroad19.mainweb_t.JPG" alt="19 Claddagh Road, Ballyfermot,   Dublin 10" />
+                </a>
+                
+                    <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206">
+                        <img class="small" src="//photos.myhome.ie/media/6/0/2/2744206/claddaghroad19.door_s.JPG" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206">
+                        <img class="small" src="//photos.myhome.ie/media/6/0/2/2744206/claddaghroad73.hall1_s.JPG" alt="" />
+                    </a>
+                
+                    <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206">
+                        <img class="small" src="//photos.myhome.ie/media/6/0/2/2744206/claddaghroad19.hall3_s.JPG" alt="" />
+                    </a>
+                
+
+                <div class="viewImages">
+                    
+                    <a class="arrowLink" href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206">View 23 Images</a>
+                    
+                </div>
+            </div>
+        
+
+        <div class="descriptionTitle "><span class="floatLeft">2 Bed Semi-Detached House 109 m&#178; / 1173 ft&#178; For Sale</span><span class="price">€149,950</span></div>
+        <div class="description ">Berkeley &amp; Associates are delighted to present this superior home located on this popular and sought after road within Old Ballyfermot.  Exquisitely presented and thoughtfully extended, this beautiful home offers excellent accommodation for any growing family with well proportioned living space expertly adapted for modern living.  The property has been lovingly decorated and furnished with a neutral, modern pale...</div>
+    </div>
+    <div class="resultRight">
+
+        
+            <div class="agentLogo"><a href="/residential/estate-agents/berkeley-associates-5744"><img src="//photos.myhome.ie/groups/4/4/7/5744/logo.jpg" alt="agent logo" /></a></div>
+        
+        
+        <a href="/residential/brochure/19-claddagh-road-ballyfermot-dublin-10/2744206" class="moreDetails arrowLink">View Details</a>
+    </div>
+</li>
+
+
+</ul>
+        <div class="pager">
+            <span class="disabled previous">&lt; Prev</span><span class="current">1</span><a id="pager2" href="?page=2">2</a><a id="pager3" href="?page=3">3</a><a id="pager4" href="?page=4">4</a><a id="pager5" href="?page=5">5</a><a id="pager6" href="?page=6">6</a><a id="pager7" href="?page=7">7</a>... <a id="pager196" href="?page=196">196</a><a id="pager197" href="?page=197">197</a><a id="pagerNext &gt;" class="next" rel="next" href="?page=2">Next &gt;</a>
+        </div>
+    
+    <div class="searchResultsBottomLeaderboard">
+        
+    <div id="LeaderboardAd">
+        <iframe width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" style="display:block;margin:0 auto;" src="/ad?type=leaderboard&id=3724562&searchurl=%2fresidential%2fdublin%2fhouse-for-sale"></iframe>
+    </div>
+
+    </div>
+
+    <div id="searchInfo">
+        Your property search was for a <a href='/residential/dublin/house-for-sale'>Dublin house for sale</a>. You will find a great selection of <a href='/residential/dublin/property-for-sale'>Dublin properties for sale</a> on MyHome.ie. Similar property near to Dublin include <a href='/residential/meath/property-for-sale'>Co. Meath properties for sale</a>, <a href='/residential/kildare/property-for-sale'>properties in Co. Kildare for sale</a> and <a href='/residential/louth/property-for-sale'>properties for sale in Co. Louth</a>. Expand your property search and view all <a href='/residential/dublin/property-for-sale'>Dublin properties for sale</a> or all <a href='/residential/dublin/apartment-for-sale'>apartments for sale in Dublin</a> or if you wish to view all property for sale visit <a href='/residential/dublin/property-for-sale'>Dublin properties for sale</a> listings. You can also view <a href='/rentals/dublin/property-to-rent'>properties in Dublin to rent</a> with houses, apartments, shared accommodation and rooms to rent
+
+        
+    </div>
+
+
+<div class="googleAds">
+    <div class="googleAdSenseContentResidential">
+        <script type="text/javascript" src="/static/scripts/google.adwords.js"></script>
+        <script type="text/javascript">            google_max_num_ads = '2'; google_ad_client = 'ca-pub-7635836061020882';google_ad_channel = '7979006200'; </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+</div>
+
+<!-- Index: True -->
+                
+
+<div id="footer">
+    <ul class="list">
+        <li><h2>MyHome Searches</h2></li>
+        <li><a href="/residential/ireland/property-for-sale">Property for Sale</a></li>
+        <li><a href="/residential/ireland/new-homes/property-for-sale">New Homes for Sale</a></li>
+        <li><a href="/residential/estate-agents">Estate Agents</a></li>
+        <li><a href="/mortgages">Mortgage Quotes</a></li>
+        <li><a href="/pricechanges">Recent Price Changes</a></li>
+        <li><a href="/priceregister">Property Price Register</a></li>
+    </ul>
+    <ul class="list">    
+        <li><h2>Popular Searches</h2></li>
+        <li><a href="/residential/dublin/property-for-sale">Property Dublin</a></li>
+        <li><a href="/residential/waterford/property-for-sale">Property Waterford</a></li>
+        <li><a href="/residential/galway/property-for-sale">Property Galway</a></li>
+        <li><a href="/residential/limerick/property-for-sale">Property Limerick</a></li>
+        <li><a href="/residential/cork/property-for-sale">Property Cork</a></li>
+    </ul>
+    <ul class="list">
+        <li><h2>Property Tools</h2></li>
+        <li><a href="/calculators/mortgage">Mortgage Calculator</a></li>
+        <li><a href="/calculators/stampduty">Stamp Duty Calculator</a></li>
+        <li><a href="/user">Property Alerts</a></li>
+        <li><a href="/mobile">MyHome.ie Mobile</a></li>
+    </ul>
+    <ul class="list">
+        <li><h2>Regulars</h2></li>
+        <li><a href="http://blogs.myhome.ie" target="_blank">MyHome.ie Blog</a></li>
+        <li><a href="/area-guides">Area Guides</a></li>
+        <li><a href="/competitions">Competitions</a></li>
+        <li><a href="/newsletter">Newsletter</a></li>
+        <li><a target="_blank" href="http://advice.myhome.ie/category/property-news/property-news-property-n/">Property Reports</a></li>
+        <li><a href="http://feedback.myhome.ie" target="_blank" rel="nofollow">Feedback</a></li>
+    </ul>
+    <div class="footerBottom">
+        <ul class="pipe floatLeft">
+            <li><a href="/">For Sale</a></li>
+            <li><a href="/rentals">To Rent</a></li>
+            <li><a href="/commercial">Commercial</a></li>
+            <li><a href="/holiday-homes">Holiday Homes</a></li>
+            <li><a href="/services">Services</a></li>
+        </ul>
+        <ul class="pipe floatRight">
+            <li><a href="/help">Help</a></li>
+            <li><a href="/jobs">Jobs</a></li>
+            <li><a href="/advertise-with-us">Advertise</a></li>
+            <li><a href="/sitemap">Site Map</a></li>
+            <li><a href="/contact">Contact Us</a></li>
+            <li><a href="/about">About Us</a></li>
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+
+        <div id="footerSmallPrint">
+            
+
+<div id="partnerLinks">
+    <ul>
+        <li class="first"><span>Our partners:</span></li>
+        <li><a href="http://www.irishtimes.com" title="irishtimes.com" target="_blank">irishtimes.com</a></li>
+        <li><a href="http://www.myantiques.ie" title="myantiques.ie" target="_blank">myantiques.ie</a></li>
+        <li><a href="http://entertainment.ie" title="entertainment.ie" target="_blank">entertainment.ie</a></li>
+        <li><a href="http://www.irishracing.com" title="irishracing.com" target="_blank">irishracing.com</a></li>
+        <li><a href="http://www.top1000.ie" title="The Top 1000 Companies in Ireland" target="_blank">top1000.ie</a></li>
+        <li class="last"><a href="http://www.rewardingtimes.ie" title="rewardingtimes.ie" target="_blank">rewardingtimes.ie</a></li>
+    </ul>
+</div>
+
+<ul class="pipe copyright">
+    <li><a href="/privacy">Privacy</a> - <a href="/terms">Terms &amp; Conditions</a></li>
+    <li>Copyright 2014 MyHome Ltd.</li>
+</ul>
+        </div>
+
+        
+
+<script type="text/javascript">
+    var isAuthenticated = false;
+    var isIE6 = false;
+    var isIE7 = false;
+    var isIE9 = false;
+</script>
+
+    <script src="/bundles/coreJs?v=mqJ8yU90tHFVkxXbCbg1Oi85N8t1BOJLtIQoDaHcPno1"></script>
+
+    
+    
+    
+    
+    <script src="/bundles/regionLocalityDropdownJs?v=HhyGfrJtpHgmhUo9kvHesoZkZ1QnXc3xDD50hIHuvVs1"></script>
+
+    <script src="/bundles/validationJs?v=bUh1VsvCHjgHSLiT4OviNB2LyQmTuCyN2hlYjuTzaGM1"></script>
+
+    
+    <script src="/bundles/colorboxJs?v=ja4hu3P3Xx-svSYkP9TKCuPnygGxdIepNwHqUDUdoLQ1"></script>
+
+    
+    
+    
+        <script src="/static/scripts/galleria-1.2.9.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            
+                Galleria.loadTheme('/static/scripts/galleria.myhomeSearchResults.js');
+            
+        </script>
+                
+    
+
+<script type="text/javascript">
+	
+    
+
+	$('#Region').regionLocalityDropdown({ target: '#Localities', url: '/api/localities/prioritiseddecendants/' });
+
+
+	$(".gallery").each(function () {
+
+		var currentGallery = this;
+
+		$(".arrowRight", currentGallery).click(function () {
+
+			var visibleImage = $(".galleryImage:visible", currentGallery);
+			$("img", visibleImage).hide();
+
+			var nextImage = $(visibleImage).next(".galleryImage");
+
+			if (nextImage.length != 0) {
+				$("img", nextImage).show();
+			} else {
+				$("img:first", currentGallery).show();
+			}
+		});
+
+		$(".arrowLeft", currentGallery).click(function () {
+
+			var visibleImage = $(".galleryImage:visible", currentGallery);
+			$("img", visibleImage).hide();
+
+			var nextImage = $(visibleImage).prev(".galleryImage");
+
+			if (nextImage.length != 0) {
+				$("img", nextImage).show();
+			} else {
+				$("img:last", currentGallery).show();
+			}
+		});
+
+	});
+
+
+	$(".premium").hover(function () {
+		$(this).addClass("hover");
+	}, function () {
+		$(this).removeClass("hover");
+	});
+
+	$(".slideshowLink").click(function () {
+		var id = $(this).attr("id");
+		$("a[rel='" + id + "']").colorbox({
+			open: true,
+			opacity: 0.2,
+			current: "Image {current} of {total}"
+		});
+	});
+
+	$(document).ready(function () {
+
+		var hintText = "To get the best response fill in some detail..... Do you need advice about mortgages? Is a garden a must? What's the minimum number of bedrooms you need?";
+
+		$(".contactAllTextarea")
+			.addClass("hintText")
+			.val(hintText)
+			.focus(function () {
+				if ($(this).val() == hintText) {
+					$(this)
+						.val("")
+						.removeClass("hintText");
+				}
+			})
+			.focusout(function () {
+				if ($(this).val() == "") {
+					$(this)
+						.val(hintText)
+						.addClass("hintText");
+				}
+			});
+
+
+
+		$(".contactAllList #selectAll").click(function () {
+			if ($(this).text() == "Select All") {
+				$(this).text("Deselect All");
+				$("input[type=checkbox]", ".contactAllList").attr("checked", true);
+				$(".contactAllList li").addClass("selected");
+			} else {
+				$(this).text("Select All");
+				$("input[type=checkbox]", ".contactAllList").attr("checked", false);
+				$(".contactAllList li").removeClass("selected");
+			}
+
+		});
+
+		$("#contactAllSubmit").live("click", function (e) {
+
+			if ($(".contactAllTextarea").hasClass("hintText")) {
+				$(".contactAllTextarea").val("").removeClass("hintText");
+			}
+
+			$('#contactAllForm').validate({
+				rules: {
+					Email: { email: true },
+					Phone: { phone: true }
+				},
+				messages: {
+					Name: "Please enter your name",
+					Email: "Please enter your email address",
+					Phone: "Please enter your phone number",
+					Message: "Please enter a message",
+					UserType: "Please select one"
+				},
+				showErrors: function (errorMap, errorList) {
+					this.defaultShowErrors();
+					$('#contactAllErrorMessages').hide();
+				},
+				errorPlacement: function (error, element) {
+					error.insertBefore(element);
+				}
+			});
+
+			var groupIDs = new Array();
+			$("input:checked").each(function (i) {
+				var groupID = parseInt($(this).attr("name"));
+				if (!isNaN(groupID))
+					groupIDs.push(groupID);
+			});
+			var agents = groupIDs.join(',');
+
+			var isAgentsValid = true;
+			if (agents == "" || agents == null) {
+				$("#contactAllListErrors").html("<span>You have not selected any agents. Please select at least one agent from the list</span>");
+				isAgentsValid = false;
+			} else if (groupIDs.length > 30) {
+				$("#contactAllListErrors").html("<span>You've selected " + groupIDs.length + " agents. Please select maximum 30 agents from the list</span>");
+				isAgentsValid = false;
+			} else {
+				$("#contactAllListErrors").html("");
+			}
+
+			if ($('#contactAllForm').valid()) {
+				if (!isAgentsValid) { return false; }
+
+				$("#contactAllSubmit").text("Sending ...");
+				$("#contactAllSubmit").attr("disabled", "disabled");
+				$("#Agents").val(agents);
+				$.ajax({
+					type: 'POST',
+					url: $("#contactAllForm").attr('action'),
+					data: $("#contactAllForm").serialize(),
+					dataType: 'html',
+					success: function (data) {
+						$('#contactAllPanel').html(data);
+					},
+					error: function () { alert('An error occurred'); }
+				});
+			}
+			return false;
+		});
+
+		if ($("#contactAllPanel").exists()) {
+
+			$(".contactAllList li .main").click(function () {
+				var li = $(this).parent();
+				$(li).toggleClass("selected");
+				$("input[type=checkbox]", li).attr("checked", !$("input[type = checkbox]", li).attr("checked"));
+			});
+
+			$(".contactAllList input[type=checkbox]").click(function () {
+				$(this).parent().parent().toggleClass("selected");
+			});
+		}
+
+
+		// Property Alerts
+		$("#refineInputs select").change(function () {
+			disableCreatePropertyAlert();
+		});
+		$("#refineInputs input").keyup(function () {
+			disableCreatePropertyAlert();
+		});
+
+		function disableCreatePropertyAlert() {
+			$("#propertyAlert").unbind();
+			$("#propertyAlert").removeClass().addClass("disabled");
+		}
+
+		$("#name").focus();
+
+		var name = $("h1.refine").html();
+		$("#name").val(name);
+
+		$('#saveButton').live('click', function () {
+			var frequency = $(".saveSearchForm #frequency").val();
+			$.ajax({
+				type: "POST",
+				url: "/user/savesearch",
+				data: {
+					Url: document.URL,
+					Frequency: frequency
+				},
+				success: function (data) {
+					$('.saveSearchForm').html("<span class='saveConfirmation'>Your Property Alert was saved.</span><a href='/user#propertyAlerts' class='manageSearches'>Manage Your Property Alerts >></a><a class='confirmButton button green main'>Ok</a>");
+					$("#propertyAlert").addClass("created");
+					$("#propertyAlert span a").text("Property Alert Created");
+				}
+			});
+
+			return false;
+		});
+
+		$("#cancel").live("click", function () {
+			$("#createPropertyAlert").slideUp();
+		});
+
+		$(".confirmButton").live("click", function () {
+			$("#createPropertyAlert").slideUp();
+		});
+		/////////////////////////////////
+
+	});
+
+</script>
+        
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3401544-1']);
+    
+      _gaq.push(['_setCustomVar', 3, 'PropertyClassID', '1', 3]);
+    
+      _gaq.push(['_setCustomVar', 4, 'LocalityID', '1265', 3]);
+    
+  
+    _gaq.push(['_setDomainName', 'myhome.ie']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+</script>
+
+<!-- "MYHOME-WEB1"; -->
+
+
+
+        <!-- Begin comScore Tag -->
+        <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "8946263" });
+            (function () {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script>
+        <noscript>
+          <img src="http://b.scorecardresearch.com/p?c1=2&c2=8946263&cv=2.0&cj=1" />
+        </noscript>
+        <!-- End comScore Tag -->
+    </body>
+</html>
