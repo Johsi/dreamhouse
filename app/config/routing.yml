@@ -1,0 +1,5 @@
+volke_webscraper:
+    resource: "@VolkeWebscraperBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

@@ -1,5 +1,7 @@
 <?php
 
+namespace Volke\Bundle\WebscraperBundle;
+
 class Webscraper 
 {
 	
@@ -56,9 +58,19 @@ class Webscraper
  * @param  [string] $nextCode        [The html code for the next button]
  * @param  [string] $nextStart       [The text before an "next" url]
  * @param  [string] $nextStop        [The text where the "next" url stops]
+ * @param  [string] $lastpageIndicator[The text that indicates we're at the last page]
  * @return [array]                  [An array of all urls on all pages]
  */
-    function paged_scraping($siteUrl, $scrapeFrom, $scrapeTo, $resultSeperator, $urlStart, $urlStop, $nextCode, $nextStart, $nextStop){
+    function paged_scraping($siteUrl, 
+    	$scrapeFrom, 
+      	$scrapeTo, 
+    	$resultSeperator, 
+    	$urlStart, 
+    	$urlStop, 
+    	$nextCode, 
+    	$nextStart, 
+    	$nextStop, 
+    	$lastpageIndicator){
     	
     	$continue = TRUE;   // Assigning a boolean value of TRUE to the $continue variable. This will stay true as long as there are more pages
 	    $url = $siteUrl;    // Assigning the URL we want to scrape to the variable $url
@@ -66,26 +78,35 @@ class Webscraper
 	    // While $continue is TRUE, i.e. there are more search results pages
 	    while ($continue == TRUE) {
 
-	        $results_page = curl($url); // Downloading the results page using our curl() funtion
+	        $results_page = $this -> curl($url); // Downloading the results page using our curl() funtion
 
-	        $results_page = scrape_between($results_page, $scrapeFrom, $scrapeTo); // Scraping out only the middle section of the results page that contains our results
+	        $results_page = $this -> scrape_between($results_page, $scrapeFrom, $scrapeTo); // Scraping out only the middle section of the results page that contains our results
 
 	        $separate_results = explode($resultSeperator, $results_page);   // Exploding the results into separate parts into an array
 
 	        // For each separate result, scrape the URL
 	        foreach ($separate_results as $separate_result) {
 	        	if ($separate_result != "") {
-	                $results_urls[] = scrape_between($separate_result, $urlStart, $urlStop); // Scraping the page ID number and appending to the IMDb URL - Adding this URL to our URL array
+	                $results_urls[] = $this -> scrape_between($separate_result, $urlStart, $urlStop); // Scraping the page ID number and appending to the IMDb URL - Adding this URL to our URL array
 	            }
 	        }
 
 	        // Searching for a 'Next' link. If it exists scrape the url and set it as $url for the next loop of the scraper
-	        if (strpos($results_page, $nextCode)) {
-	        	$continue = TRUE;
-	        	$url = scrape_between($url, $nextStart, $nextStop);
-	        } 
+	        if (!strpos($results_page, $lastpageIndicator)) {
+		        if (strpos($results_page, $nextCode)) {
+		        	$continue = TRUE;
+		        	$urlAppend = $this -> scrape_between($results_page, $nextStart, $nextStop);
+		        	
+		        	if (isset($urlAppend)){
+			        	$url = $siteUrl . $urlAppend;
+			        } 
+			        else {
+			        	$continue = FALSE;
+			        }
+		        } 
+		    }
 	        else {
-	            $continue = FALSE;  // Setting $continue to FALSE if there's no 'Next' link
+	         	$continue = FALSE;  // Setting $continue to FALSE if there's no 'Next' link
 	        }
 	        sleep(rand(3,5));   // Sleep for 3 to 5 seconds. Useful if not using proxies. We don't want to get into trouble.
 	    }
